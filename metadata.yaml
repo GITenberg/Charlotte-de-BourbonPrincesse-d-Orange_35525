@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37730'
     url: http://www.gutenberg.org/2009/agents/37730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35525#Charlotte-de-BourbonPrincesse-d-Orange
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2011-03-08'
 gutenberg_type: Text
